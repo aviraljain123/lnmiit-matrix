@@ -1,2 +1,2 @@
 # lnmiit-matrix
-matrix simulation for parallel programming
+matrix simulation for parallel direction of reading.
